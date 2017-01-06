@@ -1,0 +1,14 @@
+D:\Code\C#\Yank.WeiXin.Robot\Yank.WeiXin.Robot\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\C#\Yank.WeiXin.Robot\Yank.WeiXin.Robot\bin\Debug\Yank.WeiXin.Robot.dll
+D:\Code\C#\Yank.WeiXin.Robot\Yank.WeiXin.Robot\bin\Debug\Yank.WeiXin.Robot.pdb
+D:\Code\C#\Yank.WeiXin.Robot\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.dll
+D:\Code\C#\Yank.WeiXin.Robot\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.pdb
+D:\Code\C#\Yank.WeiXin.Robot\Yank.WeiXin.Robot\bin\Debug\Newtonsoft.Json.Net35.dll
+E:\EBA\Yank.WeiXin.Robot\bin\Debug\Yank.WeiXin.Robot.dll
+E:\EBA\Yank.WeiXin.Robot\bin\Debug\Yank.WeiXin.Robot.pdb
+E:\EBA\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.dll
+E:\EBA\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.pdb
+E:\XiaoYong666\WeiXin_Test\WeiXin_Test\Yank.WeiXin.Robot\bin\Debug\Yank.WeiXin.Robot.pdb
+E:\XiaoYong666\WeiXin_Test\WeiXin_Test\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.csprojResolveAssemblyReference.cache
+E:\XiaoYong666\WeiXin_Test\WeiXin_Test\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.dll
+E:\XiaoYong666\WeiXin_Test\WeiXin_Test\Yank.WeiXin.Robot\obj\Debug\Yank.WeiXin.Robot.pdb

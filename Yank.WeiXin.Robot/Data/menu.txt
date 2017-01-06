@@ -1,0 +1,35 @@
+{
+
+    "button": [
+        {
+            "name": "测试跳转", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "搜索", 
+                    "url": "http://www.baidu.com/"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "视频", 
+                    "url": "http://v.qq.com/"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "赞一下我们", 
+                    "key": "BTN_GOOD"
+                }
+            ]
+        }, 
+        {
+			"type": "view",
+            "name": "设备状态", 
+            "url": "http://vanrui.com/weixin"
+        }, 
+        {
+            "type": "click", 
+            "name": "帮助", 
+            "key": "BTN_HELP"
+        }
+    ]
+}

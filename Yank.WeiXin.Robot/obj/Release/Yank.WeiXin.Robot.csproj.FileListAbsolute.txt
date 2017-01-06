@@ -1,0 +1,5 @@
+E:\EBA\Yank.WeiXin.Robot\bin\Release\Yank.WeiXin.Robot.dll
+E:\EBA\Yank.WeiXin.Robot\bin\Release\Yank.WeiXin.Robot.pdb
+E:\EBA\Yank.WeiXin.Robot\bin\Release\Newtonsoft.Json.Net35.dll
+E:\EBA\Yank.WeiXin.Robot\obj\Release\Yank.WeiXin.Robot.dll
+E:\EBA\Yank.WeiXin.Robot\obj\Release\Yank.WeiXin.Robot.pdb
